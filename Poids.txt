@@ -1,0 +1,14 @@
+P.Chocolat 
+35.0 40.0
+Croissant
+30.0 33.0
+Baguette
+90.0 100.0
+Cookie
+25.0 30.0
+Chouquette
+10.0 15.0
+P.Raisin
+10.0 14.0
+Torsade
+30.0 35.0

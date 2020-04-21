@@ -1,0 +1,7 @@
+P.Chocolat 710 
+Croissant 800
+Baguette 1100
+Cookie 650
+Chouquette 500
+P.Raisin 600
+
