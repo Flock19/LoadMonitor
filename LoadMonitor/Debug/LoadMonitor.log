@@ -1,0 +1,9 @@
+﻿  Balance.cpp
+  Bloc.cpp
+C:\Users\33629\source\repos\LoadMonitor\Bloc.cpp(73,62): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+C:\Users\33629\source\repos\LoadMonitor\Bloc.cpp(76,15): warning C4244: 'return' : conversion de 'double' en 'int', perte possible de données
+  LoadMonitor.cpp
+C:\Users\33629\source\repos\LoadMonitor\LoadMonitor.cpp(86,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+C:\Users\33629\source\repos\LoadMonitor\Bloc.cpp(64): warning C4715: 'Bloc::showStock' : les chemins de contrôle ne retournent pas tous une valeur
+  LoadMonitor.vcxproj -> C:\Users\33629\source\repos\LoadMonitor\Debug\LoadMonitor.exe
