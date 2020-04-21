@@ -117,7 +117,8 @@ int main()
     std::cout <<"Nombre de "<<p1.getNom()<<" : "<< bal1.chargeCourante()<<"/"<<p1.valMoyenne()<< " : " << bal1.chargeCourante()/ p1.valMoyenne()<< endl;
     */
 
-    
+    //Hello
+    //Hi
 
 }
 
